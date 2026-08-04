@@ -19,10 +19,3 @@ Atualmente, meus estudos estão focados em construir uma base sólida em:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
-
-### 📊 Minhas Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-C-Simoes&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do Lucas" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-C-Simoes&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
-</div>
