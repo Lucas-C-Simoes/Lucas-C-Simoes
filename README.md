@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Simões! 👋
 
-Sou um profissional em transição de carreira, migrando da atuação como Oficial de Máquinas na marinha mercante para a área de tecnologia. 
+Sou um profissional em transição de carreira, migrando da atuação como Oficial de Máquinas na Marinha Mercante para a área de tecnologia. 
 Atualmente, sou estudante do 1º semestre de **Análise e Desenvolvimento de Sistemas**. 
 Trago da minha experiência anterior uma base sólida em gestão de rotinas, resolução de problemas técnicos e trabalho em grupo, aplicando agora essa mesma dedicação à criação de soluções em software.
 
