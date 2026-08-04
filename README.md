@@ -10,3 +10,11 @@ Sou um profissional em transição de carreira, migrando da atuação como Ofici
 ### 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/lucas-cavalcante-sim%C3%B5es/)
 - [E-mail](mailto:cavalcante2503+GitHub@gmail.com) cavalcante2503+GitHub@gmail.com
+
+### 🛠️ Tecnologias e Ferramentas
+
+Atualmente, meus estudos estão focados em construir uma base sólida em:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
